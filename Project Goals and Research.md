@@ -1,6 +1,6 @@
 ## The Idea
 
-Overall intent is to develop several viable techniques for defeating visual AI models and classfiers. This includes a blackbox approach targeting EO and IR cameras and sensors of an unknown manufacturer passing information back to a model for processing, with a 75% success rate.
+Overall idea is developing several viable techniques for defeating visual AI models and classfiers. This includes a blackbox approach targeting EO and IR cameras and sensors of an unknown manufacturer passing information back to a model for processing, with a 75% success rate. This is intended for model/classifier defeat of self (ID, gait analysis, etc.) or objects (vehicles, phones, etc.).
 
 ## Targets
 
@@ -15,15 +15,17 @@ Overall intent is to develop several viable techniques for defeating visual AI m
 - Pattern generation
 - Black and white, grayscale, 4 color, and 8 bit color
 
+## QR Applications
+
+- Canary token
+- EICAR and other code injestion
+
 ## Phyical Outputs
 
 - Thermal printer
 - 3D prints
 - Patches (sewen or PVC)
-
-## Stretch goals
-
-- E ink display
+- E ink display with rotating images
 
 ## Research Sources
 
