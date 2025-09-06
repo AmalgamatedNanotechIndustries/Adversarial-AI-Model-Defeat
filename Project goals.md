@@ -2,9 +2,9 @@
 
 https://github.com/bennjordan/PlateShapez
 
-https://github.com/yuanchun-li/DeepPayload (new)
+https://github.com/yuanchun-li/DeepPayload
 
-https://arxiv.org/pdf/2101.06896 (new)
+https://arxiv.org/pdf/2101.06896
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9147429/
 
